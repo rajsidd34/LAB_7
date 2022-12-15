@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    background-image:"hospital.jpg";
+}
+
+th{
+    border: 2px solid rgba(20, 20, 20, 0.055);
+    padding: 30px;
+    text-align: left;
+    font-weight: 200;
+    font-weight: 300;
+    font-style:unset;
+    background-color:blueviolet;
+}
+td{ 
+    
+    border: 1px solid rgb(0, 8, 255);
+    padding: 5px;
+}
+tr{
+    border-radius: 0ch;
+    padding: 5px;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
